@@ -1,0 +1,15 @@
+#header{
+    background-color: #427fef ;
+}
+
+
+tr:nth-child(even){
+    background-color: green;
+}
+
+table{
+    border: 1px solid;
+    border-color: #c4dcf3 ;
+    border-collapse: collapse;
+  }
+  /* Time it took to write: 5 min, Time took for wifi to load: 1.2 hours*/
